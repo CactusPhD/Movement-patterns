@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ddf28ac153b5bec49a14afded4497409
+  - enabled: 1
+    path: Assets/Scenes/Arrive.unity
+    guid: b70af235c729bd4409303f8dee429df4
+  - enabled: 1
+    path: Assets/Scenes/Flee.unity
+    guid: 793b5a2b8808ad7498a3379ec1cd2a39
+  - enabled: 1
+    path: Assets/Scenes/Flocking.unity
+    guid: 2af4464beef7fa143a0ffcbb50d3f268
+  - enabled: 1
+    path: Assets/Scenes/Interpose.unity
+    guid: 575bdc1b5a6fdc64db1ad5666b7e36df
+  - enabled: 1
+    path: Assets/Scenes/Wander.unity
+    guid: 15fd24236b7800749b8dddf8405df298
